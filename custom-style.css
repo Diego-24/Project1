@@ -1,0 +1,62 @@
+.container1 {
+	background-image: url("img/Techno background.jpg");
+	background-size: 1350px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+div {
+	border-width: 5px;
+	padding: 30px;
+}
+
+.row {
+	border-radius: 75px;
+	border-style: solid;
+	font-family: 'Audiowide', cursive;
+	font-size: 50px;
+	opacity: 0.9;
+	background-color: #000506;
+	color: yellow;
+	margin: 30px;
+	text-align: center;
+}
+
+.row2 {
+	text-align: center;
+	margin: 10px;
+}
+
+.container2 {
+	background-image: url("img/scorpion background.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 1350px;
+}
+
+.row3 {
+	border-radius: 75px;
+	border-style: solid;
+	color: white;
+	font-size: 50px;
+	margin: 60px;
+	text-align: center;
+}
+
+.col-xs-6 {
+	color: white;
+	border-style: solid;
+}
+
+.row4 {
+	color: white;
+	border-style: solid;
+	margin: 30px;
+}
+
+.container3 {
+	background-image: url("img/3d background.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 1350px;
+}
