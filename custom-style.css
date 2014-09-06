@@ -42,7 +42,7 @@ div {
 	border-style: solid;
 	color: yellow;
 	font-size: 50px;
-	margin: 60px;
+	margin: 30px;
 	text-align: center;
 }
 
@@ -64,6 +64,7 @@ div {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 1350px;
+	
 }
 
 .row5 {
@@ -71,6 +72,6 @@ div {
 	border-style: solid;
 	font-family: 'Audiowide', cursive;
 	font-size: 50px;
-	margin: 60px;
+	margin: 30px;
 	text-align: center;
 }
