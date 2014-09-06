@@ -48,11 +48,13 @@ div {
 
 .col-xs-6 {
 	color: yellow;
+	border-style: solid;
 	font-family: 'Titillium Web', sans-serif;
 	font-size: 20px;
 }
 
 .row {
+	border-style: solid;
 	text-align: center;
 	margin: 30px;
 }
