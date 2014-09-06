@@ -16,7 +16,7 @@ div {
 	font-family: 'Audiowide', cursive;
 	font-size: 50px;
 	opacity: 0.9;
-	background-color: #000506;
+	background-color: black;
 	color: yellow;
 	margin: 30px;
 	text-align: center;
@@ -36,7 +36,7 @@ div {
 
 .row3 {
 	opacity: 0.9;
-	background-color: #0C0C0C;
+	background-color: black;
 	font-family: 'Audiowide', cursive;
 	border-radius: 75px;
 	border-style: solid;
@@ -48,13 +48,11 @@ div {
 
 .col-xs-6 {
 	color: yellow;
-	border-style: solid;
 	font-family: 'Titillium Web', sans-serif;
 	font-size: 20px;
 }
 
 .row {
-	border-style: solid;
 	text-align: center;
 	margin: 30px;
 }
@@ -68,8 +66,11 @@ div {
 }
 
 .row5 {
+	opacity: 0.9;
+	background-color: black;
 	border-radius: 75px;
 	border-style: solid;
+	color: yellow;
 	font-family: 'Audiowide', cursive;
 	font-size: 50px;
 	margin: 30px;
